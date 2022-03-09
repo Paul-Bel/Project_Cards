@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Project_Cards/static/css/main.cf76935a.css",
+    "main.js": "/Project_Cards/static/js/main.3e0f5ed1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Project_Cards/static/js/787.28cb0dcd.chunk.js",
+    "static/media/error-404-page-not-found.jpg": "/Project_Cards/static/media/error-404-page-not-found.8673834a367e66b46509.jpg",
+    "index.html": "/Project_Cards/index.html",
+    "main.cf76935a.css.map": "/Project_Cards/static/css/main.cf76935a.css.map",
+    "main.3e0f5ed1.js.map": "/Project_Cards/static/js/main.3e0f5ed1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Project_Cards/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf76935a.css",
+    "static/js/main.3e0f5ed1.js"
+  ]
+}
